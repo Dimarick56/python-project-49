@@ -10,6 +10,6 @@ def main():
     play_even.play.game()
 
 
-if __name__ == "__name__":
+if __name__ == "__main__":
 
     main()
