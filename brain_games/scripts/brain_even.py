@@ -5,9 +5,7 @@ from brain_games import play_even
 
 def main():
 
-    play_even.is_even(number)
-
-    play_even.play.game()
+    play_even.even_game()
 
 
 if __name__ == "__main__":
